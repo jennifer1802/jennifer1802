@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 <!--
 **jennifer1802/jennifer1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Meu nome é Jennifer e sou estudante de programação. Já aprendi HTML E CSS, e estou entrando no módulo de JavaScript.
