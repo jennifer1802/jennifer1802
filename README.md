@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Meu nome é Jennifer e sou estudante de programação. Já aprendi HTML E CSS, e estou entrando no módulo de JavaScript.
+Meu nome é Jennifer e sou estudante de programação. Atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
